@@ -1,0 +1,25 @@
+https://console.cloud.google.com/cloudshell/editor
+
+https://console.cloud.google.com/home/dashboard?project=trainingdata-206215
+
+
+  Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://falahgs:8888/?token=826c07f59eebdae485e547b58ab907810c69e2f41de662c4&token=826c07f59eebdae485e547b58ab907810c69e2f41de662c4
+
+https://35.231.226.195:8888/?token=826c07f59eebdae485e547b58ab907810c69e2f41de662c4
+
+https://35.231.226.195:8888/?token=2dfba3bc689e26ee288023e692f3253c4ced363bf64f8ad1
+
+
+https://35.231.226.195:9999/?token=177b176ad765216637b6a9a60958cc7ca8f4bf112461a8a2
+
+
+jupyter-notebook --no-browser --port=
+
+
+http://datascience-m:8123
+
+
+
+gcloud dataproc clusters create datascience --initialization-actions gs://dataproc-initialization-actions/jupyter/jupyter.sh
